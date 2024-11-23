@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47txc61pk5033lxnfcgsveo3ddqtkdl0uh54iojl4h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Full Stack Web Developer](width="500"https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47txc61pk5033lxnfcgsveo3ddqtkdl0uh54iojl4h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ### Hi there 👋, I'm Rihan Miah Badon
 #### Full Stack Web Developer
 
