@@ -24,12 +24,12 @@ I'm currently studying at Manitoba Institute of Trade and Technology (MITT). Fro
   <img src="https://img.shields.io/badge/tool-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
 </p>
 
-</p>
+<h3 align="center">Know More About Me</h3>
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development, Computer & Science Buff 
 - 📫 How to reach me:  Text me or Email me in my  Email Address 
 - ⚡ Fun fact: Unusual Hobby: I like Collecting or Buying Gadget 
-</p>
+
 <h3 align="Center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rihan-badhon-05447428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rihan-badhon-05447428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
