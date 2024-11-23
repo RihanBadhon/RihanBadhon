@@ -12,10 +12,5 @@ Skills: HTML / CSS / JAVASCRIPT
 - ⚡ Fun fact: Unusual Hobby: I like Collecting or Buying Gadget 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RihanBadhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rihan-badhon-05447428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61556534991371)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ryan_badhon?utm_source=qr&igsh=MWtuNGsweGhneWw2YQ==/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RihanBadhon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RihanBadhon&show_icons=true)  
 
 
