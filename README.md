@@ -20,5 +20,5 @@ Skills: HTML / CSS / JAVASCRIPT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RihanBadhon&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RihanBadhon)  
+
 
