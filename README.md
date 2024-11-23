@@ -1,4 +1,4 @@
-(https://media1.tenor.com/m/r3DxEqmL0BkAAAAd/infinigods-kingofdestiny.gif)
+
 ### Hi there 👋, I'm Rihan Miah Badon
 #### Full Stack Web Developer
 
