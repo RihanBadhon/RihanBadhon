@@ -10,7 +10,6 @@ I'm currently studying at Manitoba Institute of Trade and Technology (MITT). Fro
 <p align="left">
 <h3 align="left" style="background-color: #2aa889; padding: 5px; color: white;">Skills & Experties</h3>
 <p align="left" style="background-color: #0077b5; padding: 10px; color: #333;">
-  <img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/web-HTML%2FCSS-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
 </p>
