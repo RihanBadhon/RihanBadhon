@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" height="400" width="1200" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
-<h1 align="center">Hi there 👋, I'm Rihan Miah Badon</h1>
+<h1 align="center">Hi there 👋, I'm Rihan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 
